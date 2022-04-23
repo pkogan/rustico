@@ -1,4 +1,4 @@
-<span id="a">user@flisol</span>:<span id="b">~</span><span id="c">$</span> Nok Nok <!-- el conejo blank está golpeando la puerta --> el conejo blanco está golpeando la puerta<!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">user@flisol</span>:<span id="b">~</span><span id="c">$</span> Knock Knock <!-- el conejo blank está golpeando la puerta --> sigue al conejo blanco<!-- kjsdfhkjdhsfkjdshfkj -->
 <span id="a">user@flisol</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->flisol.txt<br/><br/>
 Bienvenidxs al  "<span id="k">Flisol UNComa 2022</span>". <!-- sjkfhskjf -->
 
