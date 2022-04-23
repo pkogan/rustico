@@ -1,0 +1,9 @@
+<span id="a">user@flisol</span>:<span id="b">~</span><span id="c">$</span> Nok Nok <!-- el conejo blank está golpeando la puerta --> elegiste la pastilla correcta<!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">user@flisol</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->agenda.txt<br/><br/>
+Agenda  "<span id="k">Flisol UNComa 2022</span>". <!-- sjkfhskjf -->
+- 10:00 Bienvenida
+- 10:15 ¿Por qué el software libre tiene que desaparecer?  | Ing. Miriam Lechner | Contexto del surgimiento del software libre, evolución y futuros posibles. Software libre como caso de éxito de lo colectivo en un mundo signado por el individualismo.
+- 10:45 Cafe/Mate individual experiencia - Montun
+- 11:15 Representación de datos en la instalación audiovisual TOKEN::MNT | Carlos Mustto, Fabián Sguiglia y Fernando Toth| TOKEN::MNT es una instalación audiovisual que traduce la base de datos que Google mantiene sobre los autores en dos registros: uno sonoro y otro administrativo, en base a un sistema de 5 mil años de antigüedad. La instalación está compuesta por 12 altavoces, 12 tabletas, 861 tokens y 174.286 puntos de datos, registrados por Google durante el año 2020. En esta charla discutiremos los métodos utilizados para trabajar los datos, presentando el proyecto de arqueología experimental y arte contemporáneo Token y la aplicación de código abierto para la sonificación de gestos y datos El mapa no es el territorio (MNT).
+- 11:45 Emacs y vos | Carlos Barrosso | Repasamos algunas maneras en que una persona puede ordenar su trabajo en Devops y programación, su vida personal y hasta el cuidado de sus mascotas usando emacs.
+- 12:15 Cierre

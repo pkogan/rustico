@@ -1,0 +1,18 @@
+<span id="a">user@flisol</span>:<span id="b">~</span><span id="c">$</span> Nok Nok <!-- el conejo blank está golpeando la puerta --> el conejo blanco está golpeando la puerta<!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">user@flisol</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->flisol.txt<br/><br/>
+Bienvenidxs al  "<span id="k">Flisol UNComa 2022</span>". <!-- sjkfhskjf -->
+
+Vos elegis 
+seguir siendo un usuarix mas de <a style='color:blue' href="https://www.microsoftygooglenosonunaposibleopcion.com">xxxx</a>
+
+o ser parte de la comunidad latinoamericana del software libre.
+Registrate en el siguiente formulario para ser parte de los sorteos y enviarte el certificado.
+<form method="post">
+<label>Apellido y Nombre </label>
+<input width=20px name=nombre type="text">
+
+<label>Correo electrónico</label>
+<input name=mail type="text">
+
+<input id=red style='color:red' type="submit">
+</form>

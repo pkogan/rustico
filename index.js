@@ -79,7 +79,7 @@ var Typer = {
           .html()
           .substring(0, cont.length - 1),
       );
-    else this.write('|'); // else write it
+    //else this.write('|'); // else write it
   },
 };
 
@@ -96,8 +96,8 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = 'CodeNerve.txt';
-Typer.init();
+//Typer.file = 'CodeNerve.txt';
+//Typer.init();
 
 var timer = setInterval('t();', 30);
 function t() {
